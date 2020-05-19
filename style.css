@@ -1,0 +1,33 @@
+body div.main-container {
+    max-width: 1900px;
+    margin-left:10px;
+    line-height: 10px;
+}
+
+
+
+
+/* subtitle size */
+h3 {
+  font-size: 12pt;
+  font-style: italic;
+}
+
+/* Authors size */
+h4 {
+  font-size: 15pt;
+}
+
+/* TOC size */
+body div.tocify {
+  left: 0;
+  top: 0;
+  width: 350px;
+  height: 100%;
+  overflow:auto;
+  position: fixed;
+  font-size: 14pt;
+  max-width: 350px;
+  max-height: 100%;
+}
+
